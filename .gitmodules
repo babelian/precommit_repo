@@ -1,0 +1,3 @@
+[submodule "precommit_submodule"]
+	path = precommit_submodule
+	url = https://github.com/babelian/precommit_submodule.git
